@@ -1,4 +1,4 @@
-### Olá! Eu sou o Ulisses Mattos, desenvolvedor de sofware apaixonado por tecnologia! 👋
+### Olá! Eu sou o Ulisses Mattos, desenvolvedor de software apaixonado por tecnologia! 👋
 
 - 🔭 Hoje trabalho como desenvolvedor full stack
 - 🌱 Estudando Python
