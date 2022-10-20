@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ulisses Mattos, desenvolvedor de software apaixonado por tecnologia! 👋
 
-- 🔭 Hoje trabalho como desenvolvedor full stack
+- 🔭 Hoje trabalho como desenvolvedor backend
 - 🌱 Estudando Python
 - 😄 Pronomes: ele/dele
 
